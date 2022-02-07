@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 국민의 일꾼 - 프론트엔드 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+국민의 일꾼 프론트엔드 코드 
 
 ## Available Scripts
 
